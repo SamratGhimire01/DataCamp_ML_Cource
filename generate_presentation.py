@@ -657,3 +657,4 @@ def build():
     print(f"Saved → {out}")
 
 build()
+# Note: This code requires the `python-pptx` library and `lxml` for XML manipulation. You can install them via pip:
